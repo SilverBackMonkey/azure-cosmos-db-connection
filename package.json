@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancingball/azure-cosmos-db-connection.git"
+  },
+  "keywords": [
+    "azure",
+    "mongodb"
+  ],
+  "author": "dancingball",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dancingball/azure-cosmos-db-connection/issues"
+  },
+  "homepage": "https://github.com/dancingball/azure-cosmos-db-connection#readme"
+}
